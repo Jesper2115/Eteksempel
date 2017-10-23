@@ -20,8 +20,7 @@ header p {
 }
 
 body { 
-  background: url(Swag.jpg) no-repeat center center fixed; 
-  background-size: cover;
+  background-color: Yellow;
 }
 
 .Appearance1 {
