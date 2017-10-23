@@ -1,0 +1,76 @@
+ header {
+  background-color: #c40000;
+  text-align: center;
+  font-family: sans-serif;
+  background: transparent;
+     text-shadow: 1px 1px #000000;
+}
+
+header h1 {
+  font-size: 3em;
+  padding-top: 10px;
+    text-shadow: 1px 1px #000000;
+    
+}
+
+header p {
+  font-size: 2em;
+  padding-bottom: 10px;
+    text-shadow: 1px 1px #000000;
+}
+
+body { 
+  background: url(Swag.jpg) no-repeat center center fixed; 
+  background-size: cover;
+}
+
+.Appearance1 {
+  font-size: 2em;
+  color: #d3cdcd;
+    text-shadow: 1px 1px #000000;
+  
+}
+
+h2 {
+  Font-size: 3em;
+  color: #d3cdcd
+      text-shadow: 1px 1px #000000;
+    
+}
+
+#Appearance {
+  text-align: center;
+     margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+#Story {
+  text-align: center;
+  margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+}
+
+a:link, a:visited {
+    background-color: #141414;
+    color: #c1c1c1;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: #313131;
+}
+
+
