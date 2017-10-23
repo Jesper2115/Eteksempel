@@ -1,5 +1,5 @@
  header {
-  background-color: #c40000;
+  background-color: #00e82d;
   text-align: center;
   font-family: sans-serif;
   background: transparent;
@@ -9,7 +9,7 @@
 header h1 {
   font-size: 3em;
   padding-top: 10px;
-    text-shadow: 1px 1px #000000;
+    text-shadow: 1px 1px #ff0000;
     
 }
 
@@ -26,7 +26,7 @@ body {
 
 .Appearance1 {
   font-size: 2em;
-  color: #d3cdcd;
+  color: #ff0000;
     text-shadow: 1px 1px #000000;
   
 }
